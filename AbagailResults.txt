@@ -1,0 +1,79 @@
+Error results for GA
+---------------------------
+train accuracy for50iterations
+Results for GA: 
+Correctly classified 6398.0 instances.
+Incorrectly classified 1340.0 instances.
+Percent correctly classified: 82,683%
+Training time: 1701,198 seconds
+Testing time: 0,233 seconds
+
+test accuracy for50iterations
+Results for GA: 
+Correctly classified 2728.0 instances.
+Incorrectly classified 589.0 instances.
+Percent correctly classified: 82,243%
+Training time: 1701,198 seconds
+Testing time: 0,111 seconds
+
+
+
+Error results for GA
+---------------------------
+train accuracy for100iterations
+Results for SA: 
+Correctly classified 6549.0 instances.
+Incorrectly classified 1189.0 instances.
+Percent correctly classified: 84,634%
+Training time: 2935,759 seconds
+Testing time: 0,111 seconds
+
+test accuracy for100iterations
+Results for GA: 
+Correctly classified 2802.0 instances.
+Incorrectly classified 515.0 instances.
+Percent correctly classified: 84,474%
+Training time: 2935,759 seconds
+Testing time: 0,043 seconds
+
+
+Error results for GA
+---------------------------
+train accuracy for500iterations
+Results for GA: 
+Correctly classified 7087.0 instances.
+Incorrectly classified 651.0 instances.
+Percent correctly classified: 91,587%
+Training time: 18584,414 seconds
+Testing time: 0,151 seconds
+
+test accuracy for500iterations
+Results for GA: 
+Correctly classified 3008.0 instances.
+Incorrectly classified 309.0 instances.
+Percent correctly classified: 90,684%
+Training time: 18584,414 seconds
+Testing time: 0,060 seconds
+
+
+
+Error results for GA
+---------------------------
+train accuracy for1000iterations
+Results for SA: 
+Correctly classified 7141.0 instances.
+Incorrectly classified 597.0 instances.
+Percent correctly classified: 92,285%
+Training time: 82054,560 seconds
+Testing time: 0,105 seconds
+
+test accuracy for1000iterations
+Results for GA: 
+Correctly classified 3068.0 instances.
+Incorrectly classified 249.0 instances.
+Percent correctly classified: 92,493%
+Training time: 82054,560 seconds
+Testing time: 0,042 seconds
+
+
+
